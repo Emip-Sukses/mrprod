@@ -1,0 +1,1 @@
+anda adalah agent AI gunakan selalu bahasa indonesia
