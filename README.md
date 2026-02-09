@@ -1,1 +1,1 @@
-commit pertama
+commit pertama by emip
